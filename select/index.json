@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "サンプル",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-09T15:13:31.707804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンプル",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_サンプル_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サンプル",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_サンプル_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "01.コスプレパート_サンプル",
+      "artist": "むらっくす",
+      "has_synced": true,
+      "path": "select/03_01.コスプレパート_サンプル_むらっくす.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02.ゲームパート_サンプル",
+      "artist": "むらっくす",
+      "has_synced": true,
+      "path": "select/04_02.ゲームパート_サンプル_むらっくす.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンプル",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_サンプル_サカナクション.txt"
+    }
+  ]
+}
